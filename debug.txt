@@ -1,0 +1,205 @@
+[02/04/11 14:47:16] Config: read checkupdates: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read dbfile: $VAR1 = 'irpg.db';
+[02/04/11 14:47:16] Config: read rppenstep: $VAR1 = '1.14';
+[02/04/11 14:47:16] Config: read botchan: $VAR1 = '#idlerpg';
+[02/04/11 14:47:16] Config: read okurl: $VAR1 = [          'ultrazone.org',          'idlerpg.net'        ];
+[02/04/11 14:47:16] Config: read doban: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read mapurl: $VAR1 = 'http://idlerpg.net/quest.php';
+[02/04/11 14:47:16] Config: read debug: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read questfilename: $VAR1 = 'questinfo.txt';
+[02/04/11 14:47:16] Config: read casematters: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read botnick: $VAR1 = 'idlerpg';
+[02/04/11 14:47:16] Config: read helpurl: $VAR1 = 'http://idlerpg.net/';
+[02/04/11 14:47:16] Config: read rpstep: $VAR1 = '1.16';
+[02/04/11 14:47:16] Config: read silentmode: $VAR1 = '0';
+[02/04/11 14:47:16] Config: read noscale: $VAR1 = 0;
+[02/04/11 14:47:16] Config: read botident: $VAR1 = 'PRIVMSG NickServ :identify ilovedink';
+[02/04/11 14:47:16] Config: read admincommurl: $VAR1 = 'http://idlerpg.net/admincomms.txt';
+[02/04/11 14:47:16] Config: read detectsplits: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read reconnect: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read ownerpevalonly: $VAR1 = 0;
+[02/04/11 14:47:16] Config: read pidfile: $VAR1 = '.irpg.pid';
+[02/04/11 14:47:16] Config: read reconnect_wait: $VAR1 = '120';
+[02/04/11 14:47:16] Config: read botrlnm: $VAR1 = 'http://www.slashnet.org/~bot/';
+[02/04/11 14:47:16] Config: read writequestfile: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read allowuserinfo: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read botuser: $VAR1 = 'idlerpg';
+[02/04/11 14:47:16] Config: read modsfile: $VAR1 = 'modifiers.txt';
+[02/04/11 14:47:16] Config: read voiceonlogin: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read debugfile: $VAR1 = 'debug.txt';
+[02/04/11 14:47:16] Config: read eventsfile: $VAR1 = 'events.txt';
+[02/04/11 14:47:16] Config: read limitpen: $VAR1 = '604800';
+[02/04/11 14:47:16] Config: read mapy: $VAR1 = '500';
+[02/04/11 14:47:16] Config: read rpbase: $VAR1 = '600';
+[02/04/11 14:47:16] Config: read owner: $VAR1 = 'jotun';
+[02/04/11 14:47:16] Config: read owneraddonly: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read mapx: $VAR1 = '500';
+[02/04/11 14:47:16] Config: read phonehome: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read noccodes: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read botghostcmd: $VAR1 = 'PRIVMSG NickServ :ghost bot ilovedink';
+[02/04/11 14:47:16] Config: read splitwait: $VAR1 = '900';
+[02/04/11 14:47:16] Config: read botopcmd: $VAR1 = 'PRIVMSG ChanServ :op #idlerpg %botnick%';
+[02/04/11 14:47:16] Config: read botmodes: $VAR1 = '+ix';
+[02/04/11 14:47:16] Config: read self_clock: $VAR1 = '3';
+[02/04/11 14:47:16] Config: read servers: $VAR1 = [          'irc.pearlstein.net:6667'        ];
+[02/04/11 14:47:16] Config: read senduserlist: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read ownerdelonly: $VAR1 = 1;
+[02/04/11 14:47:16] Config: read statuscmd: $VAR1 = 0;
+[02/04/11 14:47:16] Config: read modesperline: $VAR1 = '3';
+[02/04/11 14:47:16] Config: read nononp: $VAR1 = 1;
+[02/04/11 14:47:31] Becoming a daemon...
+[02/04/11 14:47:31] loaddb(): loaded 1 accounts, 0 previously online.
+[02/04/11 14:47:31] Connecting to irc.pearlstein.net:6667...
+[02/04/11 14:47:31] Error: failed to connect: Invalid argument
+[02/04/11 14:47:31] Connecting to irc.pearlstein.net:6667...
+[02/04/11 14:47:31] Error: failed to connect: Invalid argument
+[02/04/11 14:47:31] Error: Too many connection failures, exhausted server list.
+[02/04/11 14:48:50] Config: read checkupdates: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read dbfile: $VAR1 = 'irpg.db';
+[02/04/11 14:48:50] Config: read rppenstep: $VAR1 = '1.14';
+[02/04/11 14:48:50] Config: read botchan: $VAR1 = '#idlerpg';
+[02/04/11 14:48:50] Config: read okurl: $VAR1 = [          'ultrazone.org',          'idlerpg.net'        ];
+[02/04/11 14:48:50] Config: read doban: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read localaddr: $VAR1 = 'idlerpg.davelachapelle.ca';
+[02/04/11 14:48:50] Config: read mapurl: $VAR1 = 'http://idlerpg.net/quest.php';
+[02/04/11 14:48:50] Config: read debug: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read questfilename: $VAR1 = 'questinfo.txt';
+[02/04/11 14:48:50] Config: read casematters: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read botnick: $VAR1 = 'idlerpg';
+[02/04/11 14:48:50] Config: read helpurl: $VAR1 = 'http://idlerpg.net/';
+[02/04/11 14:48:50] Config: read rpstep: $VAR1 = '1.16';
+[02/04/11 14:48:50] Config: read silentmode: $VAR1 = '0';
+[02/04/11 14:48:50] Config: read noscale: $VAR1 = 0;
+[02/04/11 14:48:50] Config: read botident: $VAR1 = 'PRIVMSG NickServ :identify ilovedink';
+[02/04/11 14:48:50] Config: read admincommurl: $VAR1 = 'http://idlerpg.net/admincomms.txt';
+[02/04/11 14:48:50] Config: read detectsplits: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read reconnect: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read ownerpevalonly: $VAR1 = 0;
+[02/04/11 14:48:50] Config: read pidfile: $VAR1 = '.irpg.pid';
+[02/04/11 14:48:50] Config: read reconnect_wait: $VAR1 = '120';
+[02/04/11 14:48:50] Config: read botrlnm: $VAR1 = 'http://www.slashnet.org/~bot/';
+[02/04/11 14:48:50] Config: read writequestfile: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read allowuserinfo: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read botuser: $VAR1 = 'idlerpg';
+[02/04/11 14:48:50] Config: read modsfile: $VAR1 = 'modifiers.txt';
+[02/04/11 14:48:50] Config: read voiceonlogin: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read debugfile: $VAR1 = 'debug.txt';
+[02/04/11 14:48:50] Config: read eventsfile: $VAR1 = 'events.txt';
+[02/04/11 14:48:50] Config: read limitpen: $VAR1 = '604800';
+[02/04/11 14:48:50] Config: read mapy: $VAR1 = '500';
+[02/04/11 14:48:50] Config: read rpbase: $VAR1 = '600';
+[02/04/11 14:48:50] Config: read owner: $VAR1 = 'jotun';
+[02/04/11 14:48:50] Config: read owneraddonly: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read mapx: $VAR1 = '500';
+[02/04/11 14:48:50] Config: read phonehome: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read noccodes: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read botghostcmd: $VAR1 = 'PRIVMSG NickServ :ghost bot ilovedink';
+[02/04/11 14:48:50] Config: read splitwait: $VAR1 = '900';
+[02/04/11 14:48:50] Config: read botopcmd: $VAR1 = 'PRIVMSG ChanServ :op #idlerpg %botnick%';
+[02/04/11 14:48:50] Config: read botmodes: $VAR1 = '+ix';
+[02/04/11 14:48:50] Config: read self_clock: $VAR1 = '3';
+[02/04/11 14:48:50] Config: read servers: $VAR1 = [          'li101-168.members.linode.com:6667'        ];
+[02/04/11 14:48:50] Config: read senduserlist: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read ownerdelonly: $VAR1 = 1;
+[02/04/11 14:48:50] Config: read statuscmd: $VAR1 = 0;
+[02/04/11 14:48:50] Config: read modesperline: $VAR1 = '3';
+[02/04/11 14:48:50] Config: read nononp: $VAR1 = 1;
+[02/04/11 14:49:05] Becoming a daemon...
+[02/04/11 14:49:05] loaddb(): loaded 1 accounts, 0 previously online.
+[02/04/11 14:49:05] Connecting to li101-168.members.linode.com:6667...
+[02/04/11 14:49:05] Connected.
+[02/04/11 14:49:05] (q000) = NICK idlerpg
+[02/04/11 14:49:05] (q001) = USER idlerpg 0 0 :http://www.slashnet.org/~bot/
+[02/04/11 14:49:05] <- :tigger.pearlstein.ca NOTICE AUTH :*** Looking up your hostname...
+[02/04/11 14:49:05] (fm4) -> NICK idlerpg
+[02/04/11 14:49:05] (fm3) -> USER idlerpg 0 0 :http://www.slashnet.org/~bot/
+[02/04/11 14:49:05] <- :tigger.pearlstein.ca NOTICE AUTH :*** Found your hostname
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 001 idlerpg :Welcome to the 3750TestServer IRC Network idlerpg!idlerpg@li245-249.members.linode.com
+[02/04/11 14:49:07] (q000) = PRIVMSG NickServ :identify ilovedink
+[02/04/11 14:49:07] (q001) = MODE idlerpg :+ix
+[02/04/11 14:49:07] (q002) = JOIN #idlerpg
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 002 idlerpg :Your host is tigger.pearlstein.ca, running version Unreal3.2.8.1
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 003 idlerpg :This server was created Sat Sep 19 2009 at 19:27:31 UTC
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 004 idlerpg tigger.pearlstein.ca Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+[02/04/11 14:49:07] (fm4) -> PRIVMSG NickServ :identify ilovedink
+[02/04/11 14:49:07] (fm3) -> MODE idlerpg :+ix
+[02/04/11 14:49:07] (fm2) -> JOIN #idlerpg
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 005 idlerpg UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 005 idlerpg WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=3750TestServer CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 005 idlerpg EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 251 idlerpg :There are 7 users and 20 invisible on 2 servers
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 252 idlerpg 9 :operator(s) online
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 254 idlerpg 8 :channels formed
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 255 idlerpg :I have 19 clients and 1 servers
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 265 idlerpg :Current Local Users: 19  Max: 38
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 266 idlerpg :Current Global Users: 27  Max: 39
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 375 idlerpg :- tigger.pearlstein.ca Message of the Day - 
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 372 idlerpg :- 29/9/2009 17:47
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 372 idlerpg :- I am the Tigger MOTD.
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 372 idlerpg :- 
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 372 idlerpg :- Please don't break me!
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 376 idlerpg :End of /MOTD command.
+[02/04/11 14:49:07] <- :idlerpg MODE idlerpg :+iwx
+[02/04/11 14:49:07] <- :Global!services@tigger.pearlstein.ca NOTICE idlerpg :[Logon News - Jan 18 2011] Welcome to Tigger! Please enjoy your time here, and hopefully you'll learn something! IF you abuse it, you'll soon find yourself wondering how to complete your assignment
+[02/04/11 14:49:07] <- :NickServ!services@tigger.pearlstein.ca NOTICE idlerpg :Your nick isn't registered.
+[02/04/11 14:49:07] <- :idlerpg!idlerpg@tigger-B6577A6.members.linode.com JOIN :#idlerpg
+[02/04/11 14:49:07] (q000) = WHO #idlerpg
+[02/04/11 14:49:07] (q001) = PRIVMSG ChanServ :op #idlerpg idlerpg
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 353 idlerpg = #idlerpg :idlerpg @Jett 
+[02/04/11 14:49:07] <- :tigger.pearlstein.ca 366 idlerpg #idlerpg :End of /NAMES list.
+[02/04/11 14:49:10] (fm4) -> WHO #idlerpg
+[02/04/11 14:49:10] (fm3) -> PRIVMSG ChanServ :op #idlerpg idlerpg
+[02/04/11 14:49:10] <- :tigger.pearlstein.ca 352 idlerpg #idlerpg idlerpg tigger-B6577A6.members.linode.com tigger.pearlstein.ca idlerpg H :0 http://www.slashnet.org/~bot/
+[02/04/11 14:49:10] <- :tigger.pearlstein.ca 352 idlerpg #idlerpg jett 5157989F.A052EB9.8DFD360F.IP tigger.pearlstein.ca Jett H@ :0 David Lachapelle
+[02/04/11 14:49:10] <- :tigger.pearlstein.ca 315 idlerpg #idlerpg :End of /WHO list.
+[02/04/11 14:49:10] (q000) = PRIVMSG #idlerpg :0 users qualified for auto login.
+[02/04/11 14:49:10] (fm2) -> PRIVMSG #idlerpg :0 users qualified for auto login.
+[02/04/11 14:49:10] <- :ChanServ!services@tigger.pearlstein.ca NOTICE idlerpg :Channel #idlerpg isn't registered.
+[02/04/11 14:49:22] <- :mike!mike@tigger-459D4B13.pearlstein.ca JOIN :#idlerpg
+[02/04/11 14:50:04] <- :Jett!jett@5157989F.A052EB9.8DFD360F.IP PRIVMSG #idlerpg :k, well bot is online
+[02/04/11 14:50:16] <- :Jett!jett@5157989F.A052EB9.8DFD360F.IP PRIVMSG #idlerpg :idlerpg, status
+[02/04/11 14:50:22] <- :mike!mike@tigger-459D4B13.pearlstein.ca PRIVMSG idlerpg :register
+[02/04/11 14:50:22] (q000) = PRIVMSG mike :Try: REGISTER <char name> <password> <class>
+[02/04/11 14:50:22] (q001) = PRIVMSG mike :IE : REGISTER Poseidon MyPassword God of the Sea
+[02/04/11 14:50:22] (fm4) -> PRIVMSG mike :Try: REGISTER <char name> <password> <class>
+[02/04/11 14:50:22] (fm3) -> PRIVMSG mike :IE : REGISTER Poseidon MyPassword God of the Sea
+[02/04/11 14:50:37] <- :mike!mike@tigger-459D4B13.pearlstein.ca PRIVMSG idlerpg :register Mike moo AwesomeSauce
+[02/04/11 14:50:37] (q000) = MODE #idlerpg +v :mike
+[02/04/11 14:50:37] (q001) = PRIVMSG #idlerpg :Welcome mike's new player Mike, the AwesomeSauce! Next level in 0 days, 00:10:00.
+[02/04/11 14:50:37] (q002) = PRIVMSG mike :Success! Account Mike created. You have 600 seconds idleness until you reach level 1. 
+[02/04/11 14:50:37] (q003) = PRIVMSG mike :NOTE: The point of the game is to see who can idle the longest. As such, talking in the channel, parting, quitting, and changing nicks all penalize you.
+[02/04/11 14:50:38] (fm4) -> MODE #idlerpg +v :mike
+[02/04/11 14:50:38] (fm3) -> PRIVMSG #idlerpg :Welcome mike's new player Mike, the AwesomeSauce! Next level in 0 days, 00:10:00.
+[02/04/11 14:50:38] (fm2) -> PRIVMSG mike :Success! Account Mike created. You have 600 seconds idleness until you reach level 1. 
+[02/04/11 14:50:38] (fm1) -> PRIVMSG mike :NOTE: The point of the game is to see who can idle the longest. As such, talking in the channel, parting, quitting, and changing nicks all penalize you.
+[02/04/11 14:50:38] <- :tigger.pearlstein.ca 482 idlerpg #idlerpg :You're not channel operator
+[02/04/11 14:52:09] <- PING :tigger.pearlstein.ca
+[02/04/11 14:52:09] -> PONG :tigger.pearlstein.ca
+[02/04/11 14:52:33] <- :Jett!jett@5157989F.A052EB9.8DFD360F.IP PRIVMSG idlerpg :info
+[02/04/11 14:52:33] Error: Attempted ha() for invalid username ""
+[02/04/11 14:52:33] (q000) = PRIVMSG Jett :IRPG bot v3.1.2 by jotun, http://idlerpg.net/. On via server: li101-168.members.linode.com:6667. Admins online: .
+[02/04/11 14:52:36] (fm4) -> PRIVMSG Jett :IRPG bot v3.1.2 by jotun, http://idlerpg.net/. On via server: li101-168.members.linode.com:6667. Admins online: .
+[02/04/11 14:54:09] <- PING :tigger.pearlstein.ca
+[02/04/11 14:54:09] -> PONG :tigger.pearlstein.ca
+[02/04/11 14:55:42] <- PING :tigger.pearlstein.ca
+[02/04/11 14:55:42] -> PONG :tigger.pearlstein.ca
+[02/04/11 14:57:18] <- PING :tigger.pearlstein.ca
+[02/04/11 14:57:18] -> PONG :tigger.pearlstein.ca
+[02/04/11 14:58:50] <- PING :tigger.pearlstein.ca
+[02/04/11 14:58:50] -> PONG :tigger.pearlstein.ca
+[02/04/11 14:59:09] (q000) = PRIVMSG #idlerpg :Mike, the AwesomeSauce, has attained level 1! Next level in 0 days, 00:11:36.
+[02/04/11 14:59:09] (q001) = NOTICE mike :You found a level 1 shield! Your current shield is only level 0, so it seems Luck is with you!
+[02/04/11 14:59:12] (fm4) -> PRIVMSG #idlerpg :Mike, the AwesomeSauce, has attained level 1! Next level in 0 days, 00:11:36.
+[02/04/11 14:59:12] (fm3) -> NOTICE mike :You found a level 1 shield! Your current shield is only level 0, so it seems Luck is with you!
+[02/04/11 15:00:41] <- PING :tigger.pearlstein.ca
+[02/04/11 15:00:41] -> PONG :tigger.pearlstein.ca
+[02/04/11 15:02:16] <- PING :tigger.pearlstein.ca
+[02/04/11 15:02:16] -> PONG :tigger.pearlstein.ca
+[02/04/11 15:03:46] <- PING :tigger.pearlstein.ca
+[02/04/11 15:03:46] -> PONG :tigger.pearlstein.ca
+[02/04/11 15:05:18] <- PING :tigger.pearlstein.ca
+[02/04/11 15:05:18] -> PONG :tigger.pearlstein.ca
+[02/04/11 15:06:54] <- PING :tigger.pearlstein.ca
+[02/04/11 15:06:54] -> PONG :tigger.pearlstein.ca
+[02/04/11 15:08:30] <- PING :tigger.pearlstein.ca
+[02/04/11 15:08:30] -> PONG :tigger.pearlstein.ca
